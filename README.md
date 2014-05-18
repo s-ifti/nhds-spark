@@ -2,6 +2,11 @@ nhds-spark
 ===========
 nhds file input classes for spark load of NHDS discharge data analytics
 Right now it just reads each NHDS line, todo define all NHDS fields as a JSON/BSON property
+See NHDS site for input dataset
+National Hospital Discharge Survey
+
+http://www.cdc.gov/nchs/nhds/nhds_questionnaires.htm
+
 
 Prerequisites
 -------------
